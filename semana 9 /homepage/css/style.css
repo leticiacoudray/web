@@ -1,0 +1,132 @@
+#wrapper
+{background-color: #EA071E;
+width: 960px ; 
+max-width: 100%;
+margin: 0 auto;
+font-family: helvetica ;
+}
+
+
+h1 {
+	font-family: helvetica ;
+	font-size: 300%;
+	color: #E2B108;
+	text-align: center;
+	padding-top: 3%;
+}
+
+h2 {
+	font-family: helvetica ;
+	font-size: 150%;
+	color: white;
+	text-align: center;
+}
+
+body { background: black;
+	width: 75%;
+	color: white; 
+    background: url(../img/motocross2.jpg);
+}
+
+img {
+margin: auto;
+height: 245px;
+width: 200px;
+margin-left: 9%;
+margin-top: 3%;
+}
+
+
+.primero {
+
+	margin-left: 35%;
+	margin-right: 15%;
+	font-family: helvetica ;
+	margin-top: -25%;
+	text-align: justify;
+	line-height: 150%;
+
+}
+
+.segundo {
+
+	margin-left: 9%;
+	margin-right: 15%;
+	font-family: helvetica ;
+	margin-top: 3%;
+	text-align: justify;
+	line-height: 150%;
+
+
+}
+
+
+.tercero {
+
+    margin-left: 9%;
+	margin-right: 15%;
+	font-family: helvetica ;
+	margin-top: 4%;
+	text-align: justify;
+	line-height: 150%;
+
+}
+
+
+.cuarto {
+
+	margin-left: 9%;
+	margin-right: 15%;
+	font-family: helvetica ;
+	margin-top: 4%;
+	text-align: justify;
+	line-height: 150%;
+
+}
+
+.quinto {
+
+	margin-left: 9%;
+	margin-right: 15%;
+	font-family: helvetica ;
+	margin-top: 4%;
+	text-align: justify;
+	line-height: 150%;
+
+}
+
+
+.uno {
+	margin-left: 9%;
+	margin-top: 7%;
+	margin-bottom: 2%;
+	padding: 1%;
+}
+
+.dos {
+	margin-left: 4%;
+	margin-top: 7%;
+	margin-bottom: 2%;
+	padding: 1%;
+}
+
+.tres {
+	margin-left: 4%;
+	margin-top: 7%;
+	margin-bottom: 2%;
+	padding: 1%;
+}
+
+.frase { 
+
+color:white; 
+margin-left: 36%;
+
+}
+
+footer{clear: both;
+max-width: 100%
+padding: 20px;
+background-color: #E2B108;
+font-color: black;
+}
